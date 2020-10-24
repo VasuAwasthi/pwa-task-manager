@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwa-task-manager/static/css/main.2561fdd7.chunk.css",
+    "main.js": "/pwa-task-manager/static/js/main.11f8c973.chunk.js",
+    "main.js.map": "/pwa-task-manager/static/js/main.11f8c973.chunk.js.map",
+    "runtime-main.js": "/pwa-task-manager/static/js/runtime-main.ac7ebbfd.js",
+    "runtime-main.js.map": "/pwa-task-manager/static/js/runtime-main.ac7ebbfd.js.map",
+    "static/js/2.91975261.chunk.js": "/pwa-task-manager/static/js/2.91975261.chunk.js",
+    "static/js/2.91975261.chunk.js.map": "/pwa-task-manager/static/js/2.91975261.chunk.js.map",
+    "static/js/3.3eeba467.chunk.js": "/pwa-task-manager/static/js/3.3eeba467.chunk.js",
+    "static/js/3.3eeba467.chunk.js.map": "/pwa-task-manager/static/js/3.3eeba467.chunk.js.map",
+    "index.html": "/pwa-task-manager/index.html",
+    "static/css/main.2561fdd7.chunk.css.map": "/pwa-task-manager/static/css/main.2561fdd7.chunk.css.map",
+    "static/js/2.91975261.chunk.js.LICENSE.txt": "/pwa-task-manager/static/js/2.91975261.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac7ebbfd.js",
+    "static/js/2.91975261.chunk.js",
+    "static/css/main.2561fdd7.chunk.css",
+    "static/js/main.11f8c973.chunk.js"
+  ]
+}
